@@ -4,10 +4,15 @@
 
 __Projects followed the Data Science Method:__
 ● Come up with a project idea and proposal
+
 ● Find and wrangle data
+
 ● Use exploratory data analysis techniques to understand that data
+
 ● Pre-process and create a training dataset
+
 ● Build a working model
+
 ● Document and present your work
 
 ___Overview of topics:___
