@@ -3,6 +3,7 @@
 ### This repo contains work from Springboard's Data Science with emphasis in Machine Learning program
 
 __Projects followed the Data Science Method:__
+
 ● Come up with a project idea and proposal
 
 ● Find and wrangle data
