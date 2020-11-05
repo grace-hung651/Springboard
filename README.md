@@ -16,13 +16,5 @@ __Projects followed the Data Science Method:__
 
 ● Document and present your work
 
-___Overview of topics:___
 
->  Chapter point 1: The Python Data Science Stack: Pandas, scikit-learn, Keras, and TensorFlow
-
->  Chapter point 2: Data engineering tools: Spark/PySpark, Luigi, Containers, AWS, and Azure
-
->  Chapter point 3: Software engineering tools: Continuous integration, version control with Git, logging, testing, and debugging
-
->  Chapter point 4: Data structures and algorithms refresher and optimizing Python to write faster code
 
